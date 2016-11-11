@@ -7,3 +7,5 @@ end
 if a <= 9
   print "smaller\n"
 end
+
+puts "hogehoge"
